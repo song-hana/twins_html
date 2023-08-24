@@ -1,0 +1,60 @@
+body {
+  font-family: Pretendard-Regular;
+}
+
+
+li {
+  list-style: none;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  background: ;
+}
+
+.icons {
+  z-index: 100;
+}
+
+.menu {
+  
+}
+
+.plan {
+
+}
+
+.topLine {
+  width: 100%;
+  height: 50px;
+  background: ;
+}
+
+.closebutton {
+  display: inline-block;
+  position: absolute;
+  line-height: 50px;
+  right: 10px;
+}
+
+.contents_box {
+
+}
+
+.title {
+
+}
+
+.small_title_box {
+
+}
+
+.text {
+
+}
+
+.devide {
+  width: 100%;
+  height: 60px;
+}
